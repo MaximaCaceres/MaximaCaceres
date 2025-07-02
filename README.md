@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **back-end projects**
+- 👯 I’m looking to collaborate on **Back-end projects**
 
 - 📫 How to reach me: **maximavanecaceres@gmail.com**
 
