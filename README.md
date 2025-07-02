@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maxima <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Maxima 👑</h1>
 <h3 align="center">A passionate Back-End | Developer from Argentina</h3>
 
 - 🔭 I'm currently studying at the **National Technological University (UTN)**
